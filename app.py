@@ -174,5 +174,3 @@ if prompt := st.chat_input("Ask LB AI anything or request work..."):
                 "content": full_response
             }
         )
-
-That's the one. Copy from "import os" all the way down to the final ")" and paste it into "app.py".
